@@ -1,0 +1,8 @@
+{
+    "uuid": "lamp-indicator@example.com",
+    "name": "LAMP Indicator",
+    "description": "Control Apache2, PHP, and MySQL services",
+    "version": 1,
+    "shell-version": ["42", "43", "44", "45", "46"],
+    "url": "https://example.com"
+}
